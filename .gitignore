@@ -1,0 +1,14 @@
+/*
+/.**
+
+!/.github/**
+!/.gitconfig_shared
+!/.gitignore_global
+
+!/.zshrc
+!/.zprofile
+!/setup.sh
+!/applications.sh
+
+!/README.md
+!/.gitignore
