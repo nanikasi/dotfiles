@@ -10,5 +10,8 @@
 !/setup.sh
 !/applications.sh
 
+!/.wezterm.lua
+!/fonts.sh
+
 !/README.md
 !/.gitignore
