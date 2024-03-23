@@ -104,4 +104,5 @@ source $ZSH/oh-my-zsh.sh
 export PATH="/opt/homebrew/bin:$PATH"
 
 alias ls='eza'
+alias diff='delta'
 echo "OK"
