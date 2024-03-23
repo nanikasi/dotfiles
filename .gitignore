@@ -13,5 +13,7 @@
 !/.wezterm.lua
 !/fonts.sh
 
+!/private_profile.code-profile
+
 !/README.md
 !/.gitignore
