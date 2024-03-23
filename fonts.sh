@@ -1,6 +1,6 @@
 #!/bin/bash -eu
 
-FONTS="font-plemol-jp-nf"
+FONTS="font-plemol-jp font-plemol-jp-nf font-plemol-jp-hs"
 
 brew tap homebrew/cask-fonts
 
