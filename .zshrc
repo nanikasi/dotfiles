@@ -105,4 +105,5 @@ export PATH="/opt/homebrew/bin:$PATH"
 
 alias ls='eza'
 alias diff='delta'
+alias cat='gat'
 echo "OK"
