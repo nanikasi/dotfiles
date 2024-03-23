@@ -2,5 +2,4 @@
 
 ```
 ./setup.sh
-./applications.sh
 ```

@@ -12,4 +12,7 @@ ln -snfv ${PWD}/.wezterm.lua ~/.wezterm.lua
 git config --global include.path "~/.gitconfig_shared"
 git config --global core.excludesfile "~/.gitignore_global"
 
+/bin/bash -c  ./fonts.sh
+/bin/bash -c  ./applications.sh
+
 command echo "Setup completed"
